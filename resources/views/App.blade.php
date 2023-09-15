@@ -7,7 +7,8 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-   <h1>Hello Laravel App Version 2.0</h1> 
+   <h1>Hello Laravel App Version 2.0</h1>
+   <h2>update v3</h2> 
    <div id="app-vue"></div>
    @vite('resources/js/app.js')
 </body>
